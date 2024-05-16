@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mjosevl20240512</string>
+    <string name="username">nombre de usuario\n</string>
+    <string name="password">contraseña\n</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="register">Registro\n</string>
+    <string name="full_name">Nombre completo\n</string>
+</resources>
